@@ -98,17 +98,17 @@
 <br>
 
 2. https://www.florariairis.ro/ <br>
-  PRO:   Posibilitatea comenzilor online ; prezentarea unor sugestii pentru utilizator
+  PRO:   Posibilitatea comenzilor online ; prezentarea unor sugestii pentru utilizator <br>
   CONTRA:   Culoarea textului din subsolul paginii este aleasa fara a lua in considerare culoarea de background, astfel facandu-l destul de greu de citit. Categoriile de produse nu au hover, astfel neputand vedea o previzualizare a acestora
 <br>
 
 3. https://www.101flori.ro/ <br>
-  PRO:   Culoarea textului din subsolul paginii este aleasa corect pentru a facilita citirea si intelegerea usoara a acestuia. Hover-ul pe categoriile de produse este posibil, astfel facilitand previzualizarea subcategoriilor
+  PRO:   Culoarea textului din subsolul paginii este aleasa corect pentru a facilita citirea si intelegerea usoara a acestuia. Hover-ul pe categoriile de produse este posibil, astfel facilitand previzualizarea subcategoriilor <br>
   CONTRA:    Design per total precar ; neactuazlizarea copyright-ului din 2019
 <br>
 
 4. https://bloomeria.ro/ <br>
-  PRO:   Pagina de produs disponibila unde putem gasi o scurta descriere specifica ; sunt disponibile recenzii per produs
+  PRO:   Pagina de produs disponibila unde putem gasi o scurta descriere specifica ; sunt disponibile recenzii per produs <br>
   CONTRA:   Prelungirea paginii principale pentru a prinde toate categoriile disponibile pe acest site. Filtrarea la anumite subcategorii nu este prea bogata, lasand loc si de alte filtre folositoare pentru utilizator.
 
 
